@@ -1,0 +1,8 @@
+{
+  "name": "jquery-transit",
+  "description": "Meteor package for jQuery Transit. A plugin to help you do Super-smooth CSS3 transformations and transitions.",
+  "homepage": "https://github.com/rstacruz/jquery.transit",
+  "author": "Rico Sta. Cruz",
+  "git": "https://github.com/jasonnathan/meteor-transit",
+  "packages": {}
+}
